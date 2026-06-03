@@ -20,4 +20,4 @@
   Offsider does not use any analytics, advertising, or tracking SDKs.
 
   CONTACT
-  For privacy questions: rajivsd@gmail.com
+  For privacy questions: offsider.lists@gmail.com
