@@ -14,8 +14,7 @@ If you choose to share a list, the list's contents are uploaded to Google Drive 
 Offsider requests camera access only for barcode and QR code scanning. The camera feed is processed entirely on-device and is never recorded, stored, or transmitted.
 
 ## Network requests
-When you scan a product barcode, Offsider may query the Open Food Facts API (openfoodfacts.org) to look up a product name, or the Open Library API (openlibrary.org) to look up a book title. These are free public d
-atabases. The only information sent is the barcode number itself. No personal information is transmitted.
+When you scan a product barcode, Offsider may query the Open Food Facts API (openfoodfacts.org) to look up a product name, or the Open Library API (openlibrary.org) to look up a book title. These are free public databases. The only information sent is the barcode number itself. No personal information is transmitted.
 
 ## Notifications
 If you enable reminders on a list, Offsider will schedule local notifications on your device. Notification data is not transmitted anywhere.
