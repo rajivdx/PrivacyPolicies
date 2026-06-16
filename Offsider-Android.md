@@ -8,6 +8,8 @@ Offsider is a list management app. Your data stays on your device. We do not run
 ## Data stored on your device
 All lists, items, and field values you create are stored locally on your device using Android's built-in database. This data never leaves your device unless you explicitly share it.
 
+If you choose to share a list, the list's contents are uploaded to Google Drive so that others with the link can access it. Shared lists are accessible to anyone who has the share link. You can stop sharing a list at any time, which removes access for all recipients.
+
 ## Camera
 Offsider requests camera access only for barcode and QR code scanning. The camera feed is processed entirely on-device and is never recorded, stored, or transmitted.
 
